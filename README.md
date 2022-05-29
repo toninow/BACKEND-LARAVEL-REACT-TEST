@@ -22,9 +22,6 @@ Ejecutar npm
 
 ```npm install```
 
-ejecutar CSS and Js 
-
-```npm run watch```
 
 Migrar la base de datos con los seeders
 
