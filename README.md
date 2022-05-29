@@ -12,6 +12,8 @@ Crear archivo .env
 
 ```manualmente```
 
+Recuerde que debe crear o usar una base de datos y colcar el nombre de la base en el apartado DB_DATABASE 
+
 Generar application key
 
 ```$ php artisan key:generate```
