@@ -1,4 +1,4 @@
-# Installation
+# Para ejecutar el backend de la aplicación ejecute los siguientes comandos.
 
 Clonar este repositorio
 
